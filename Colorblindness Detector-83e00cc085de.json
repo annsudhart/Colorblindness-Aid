@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "colorblindness-detector",
+  "private_key_id": "83e00cc085dee69bf578f4af99e368886c25aaff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/Cf3aROyLtwpg\nL2zbwasvMHxchn67GZscg28UEp8kMvKIbdTslFvXv0gGedzTS/8kIvTo6485turp\nf5C9CFxr5K2cUKPLHLFrqRm2wuVx75mo9KoIIMYKx+rS2SeuJwGviw0WvSjduD1l\n/Xb8UjPb2hQUFbBmMctuKNkx9cNh5st/WLHJFYrGSkTBLnPI0KSWpzRat43fjyl8\nWOAdgQG8bXgnaERfLzb7NCtlF/dBJnMuQVyB1TpkILnBUeu7hwSwdVBSW5AkFdsd\nv7LU1Z/8tIEmtnkcwAiAUCZroo2voAxQzeQCvE/V56q9ZFGtfvc67t40q6bUJqaN\npz/YOYPNAgMBAAECggEAL2AudH0oPkO/znekYuEl7zdyd82gywyAE3OizdMKZUM/\nM0ctiRgHqLrWhUieU0Yi+Vaz7rlQFQuAOTS5868JoHYe+cdjv0CX3S+b4V924Cj/\nrc8zBX3/LvhCC1TwCrfAqsRslAmIA2gnzc2sPsmx86Ei3pI8YzORE/oMVt/wOqxA\nJpEL2oNq5D9E5oLaCXrp5V5XKKegMrJaEG8oO8TUaxRE0S+PiFvyOLLMgKST7/M6\na+WJzsx2g0Z7JUwaHY/PKaH3+ibG46SHruTJGqIQeHwmwqAWC8Qc5qUUHxE9BSq+\nuT/oI2oX40ORYtXQJqRH2AJXPKz3CBUohnEf0EgFwQKBgQDud6w//ZDu6cb3qgg7\no+b+f89K/AEkJudcs3n4Fg2NXsIAY5nAj26NgJ95ynI22PPtnhPvfKsHkDvNLmJL\nISmf4+TdO3wFEFPf3/qGFkARYOKhWXHuqbGbAyrEkDHVOy1Sfms2kVrI2wt+KaY1\nT+C72AfxghOKRk6dz/wg3PW1oQKBgQDNFaRbf3dC0OTIzDU6ywcpOSd2tyb9n0Fp\nXXNORdNcrVx12AqUWg7r9JdOKpEjvCxngexMYsNubWZa1F0R0la0J9l8uC32Cdnz\nL4YHAV4aQIvY8A6jAhu4IXse9WafW0Hn8y+M1xueIP607kteqgV9m88cyVYH81HG\ncw85pGwGrQKBgEeHagl/u5uOT/o17GZHUaCBIeKyGH2Jldh+lVVO+B2xkKuhNJtH\n6rdTH4LesMe25+QciIpLcNnB784p3Z3/gobNSvb5QsgaD66VdoYF4o3T6+bN95jJ\nGdcPaiKvxeLZ70xRU0N48ixRV+8t+wb+wMBXmnpctBPD5wz7N/t7i9BBAoGAZmjG\nOAKAtVbGyBZhBkjX/JfTww5WZBOggFLv/0gS8ZaIMzh8n/QQu3baD2hmLagLrGxO\naR5wZLYwhG7DQuD79t5nVkZKfTASK8Oxc9IVAZr1upC1XmTxHpNpfd4hLrZNRNxF\nBFluKxpi1kqgTFcugrjJRaCsWy//x88w7SHT58kCgYAShOdekqvKxMqCsUzjXOH0\nLotuagyHNBcEfQ76QwUrNDOyXanDb+DKkEAMk40A67/VI/SaXLlglYFFizr5tSPF\nPQ4+R6s4Yc9ZrZJ2CJVKFSLGjJeRccVbIH7Jl6y58CRNfQYh+pdYAca0SIITD2po\n5GtVJmBQoJ2hpVgTbIgAXg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "absambam@colorblindness-detector.iam.gserviceaccount.com",
+  "client_id": "103883949799324693038",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/absambam%40colorblindness-detector.iam.gserviceaccount.com"
+}
